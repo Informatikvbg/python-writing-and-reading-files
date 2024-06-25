@@ -1,4 +1,4 @@
-# python-writing-and-readinf-files
+# python-writing-and-reading-files
 Задача на запись и чтение файлов
 
 ## ЗАДАЧА
